@@ -1,37 +1,31 @@
 # 🤖 AI Hiring Manager
 
-A web-based recruitment assistant that connects CEOs with their own AI-powered HR assistant — and helps job seekers apply, chat, and schedule interviews seamlessly.
+AI Hiring Manager is a minimalist, web-based recruitment assistant platform designed for both employers and job seekers. CEOs can select their own AI-powered HR assistant—like Dr. Melo, Miss Melody, or Rii—each with distinct personalities and styles. These assistants handle early-stage recruitment tasks such as greeting candidates, answering queries, collecting resumes, and scheduling interviews via Calendly. This creates a personalized yet automated hiring workflow that saves time while maintaining professionalism.
+
+For job seekers, the experience mimics a real HR interaction. Applicants can chat with the assistant, upload their resumes or portfolios, schedule mock interviews, and even request feedback—just like they'd do with a real recruiter. Behind the scenes, their submissions are logged into Google Sheets for tracking. The platform is fully front-end, hosted on Netlify, and ready to be extended with OpenAI for smart responses, making it a lightweight yet powerful tool to simulate the entire recruitment lifecycle.
 
 ---
 
-# 🌐 Live Site
 
-🔗 **Preview Website:** [ai-hiring-manager.netlify.app](https://your-site.netlify.app) 
+## 👥 User Roles
 
----
+### 👔 CEOs & Founders
+- Choose from a pool of smart AI HR assistants.
+- Each assistant comes with its own personality and title:
+  - 🟣 **Dr. Melo Marshmallow** – strategic, formal, structured
+  - 🌸 **Miss Melody** – kind, creative, and empathetic
+  - 💡 **Rii** – efficient, fast, and witty
+- Assign your assistant to manage hiring conversations.
+- Schedule recruiting meetings via Calendly.
 
-## ✨ Features
-
-- 🔗 **Landing Page** – Choose your job role.
-- 🧠 **Smart Chatbot** – Choose your Hiring Manager(Embedded AI assistant)
-- 📬 **Email Interaction** – Job seekers can submit applications
-- 📅 **Calendly Integration** – Schedule mock interviews or HR calls
-- 📊 **Google Sheets-Ready** – Form submission backend support
-- 🎨 **Minimalist UI** – Clean layout
-
----
-
-## 🔍 Use Cases
-
-### For CEOs 👔
-- Get assigned a personalized AI assistant (e.g., Dr. Melo Marshmallow)
-- Collaborate with your assistant for hiring tasks
-
-### For Job Seekers 💼
-- Apply via smart forms
-- Send resumes, portfolios, and custom messages
-- Schedule mock interviews or submit queries
-- Feel like you're talking to a real HR team
+### 💼 Job Seekers
+- Interact with AI assistants like real HRs.
+- Submit:
+  - 📄 Resumes & CVs
+  - 🌐 Portfolio links
+  - 📝 Cover letters
+- Schedule mock interviews.
+- Receive feedback or shortlist updates via chat or email.
 
 ---
 
@@ -53,8 +47,11 @@ ai-hiring-manager/
 - 📊 Google Sheets: Capture submissions via Apps Script
 - 🤖 OpenAI: Enhance chatbot responses
 
-## 📬 Contributing
-- Pull requests are welcome. For major changes, please open an issue first.
 
-📄 License
-MIT
+
+📄 License MIT
+ 
+🌐🔗 **Preview Website:** [ai-hiring-manager.netlify.app](https://your-site.netlify.app) 
+
+---
+

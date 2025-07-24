@@ -1,0 +1,25 @@
+/* css/chat.css */
+#chat-box {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+}
+
+.user {
+  color: #333;
+  background: #f0f0ff;
+  padding: 0.5rem;
+  border-radius: 6px;
+}
+
+.bot {
+  color: #5e4b8b;
+  background: #f3e9fe;
+  padding: 0.5rem;
+  border-radius: 6px;
+  margin-top: 0.5rem;
+}

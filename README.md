@@ -31,6 +31,16 @@ A minimalistic web-based recruitment assistant that connects CEOs with their own
 
 ## 📁 Project Structure
 
+ai-hiring-manager/
+├── index.html # Landing Page
+├── ceo.html # CEO Flow: Pick Assistant
+├── jobseeker.html # Job Seeker Portal
+├── css/
+│ └── style.css # Global Styles
+├── js/
+│ ├── chat.js # Smart Assistant Behavior
+│ └── form.js # Form Submission Logic
+
 
 ## 🔧 Integrations
 - 📅 Calendly: Schedule interviews

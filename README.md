@@ -2,8 +2,6 @@
 
 A minimalistic web-based recruitment assistant that connects CEOs with their own AI-powered HR assistant — and helps job seekers apply, chat, and schedule interviews seamlessly.
 
-![screenshot](https://your-screenshot-link-if-any)
-
 ---
 
 ## ✨ Features
@@ -33,3 +31,14 @@ A minimalistic web-based recruitment assistant that connects CEOs with their own
 
 ## 📁 Project Structure
 
+
+## 🔧 Integrations
+- 📅 Calendly: Schedule interviews
+- 📊 Google Sheets: Capture submissions via Apps Script
+- 🤖 OpenAI: Enhance chatbot responses
+
+## 📬 Contributing
+- Pull requests are welcome. For major changes, please open an issue first.
+
+📄 License
+MIT

@@ -1,7 +1,10 @@
 # 🤖 AI Hiring Manager
 
-A minimalistic web-based recruitment assistant that connects CEOs with their own AI-powered HR assistant — and helps job seekers apply, chat, and schedule interviews seamlessly.
+A web-based recruitment assistant that connects CEOs with their own AI-powered HR assistant — and helps job seekers apply, chat, and schedule interviews seamlessly.
 
+## 🌐 Live Site
+
+🔗 **Preview Website:** [ai-hiring-manager.netlify.app](https://your-site.netlify.app)  
 ---
 
 ## ✨ Features

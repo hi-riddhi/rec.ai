@@ -12,7 +12,7 @@ For job seekers, the experience mimics a real HR interaction. Applicants can cha
 ### 👔 CEOs & Founders
 - Choose from a pool of smart AI HR assistants.
 - Each assistant comes with its own personality and title:
-  - 🟣 **Dr. Melo Marshmallow** – strategic, formal, structured
+  - 🟣 **Dr. Melo** – strategic, formal, structured
   - 🌸 **Miss Melody** – kind, creative, and empathetic
   - 💡 **Rii** – efficient, fast, and witty
 - Assign your assistant to manage hiring conversations.
@@ -51,7 +51,7 @@ ai-hiring-manager/
 
 📄 License MIT
  
-🌐🔗 **Preview Website:** [ai-hiring-manager.netlify.app](https://your-site.netlify.app) 
+🌐🔗 **Preview Website:** [ai-hiring-manager.netlify.app](https://hr-recruiter-ai.netlify.app) 
 
 ---
 

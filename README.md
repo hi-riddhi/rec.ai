@@ -12,18 +12,18 @@ For job seekers, the experience mimics a real HR interaction. Applicants can cha
 ### 👔 CEOs & Founders
 - Choose from a pool of smart AI HR assistants.
 - Each assistant comes with its own personality and title:
-  - 🟣 **Dr. Melo** – strategic, formal, structured
-  - 🌸 **Miss Melody** – kind, creative, and empathetic
-  - 💡 **Rii** – efficient, fast, and witty
+  🟣 **Dr. Melo** – strategic, formal, structured
+  🌸 **Miss Melody** – kind, creative, and empathetic
+  💡 **Rii** – efficient, fast, and witty
 - Assign your assistant to manage hiring conversations.
 - Schedule recruiting meetings via Calendly.
 
 ### 💼 Job Seekers
 - Interact with AI assistants like real HRs.
 - Submit:
-  - 📄 Resumes & CVs
-  - 🌐 Portfolio links
-  - 📝 Cover letters
+  📄 Resumes & CVs
+  🌐 Portfolio links
+  📝 Cover letters
 - Schedule mock interviews.
 - Receive feedback or shortlist updates via chat or email.
 
